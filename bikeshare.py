@@ -191,7 +191,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+print("Let/'s display the data--->")
 def display_data(df):
 
     #Display contents as requested by the user.
