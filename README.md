@@ -1,5 +1,5 @@
 ##11 Feb 2021
-
+##Author Semra Çağan Eren
 ### Explore US Bikeshare Data with **Python** <br/>
 
 ### This project Uses Python to understand U.S. bikeshare data and try to find answer to below questions:
